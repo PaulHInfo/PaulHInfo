@@ -2,7 +2,8 @@
 # 😊 About myself
 My name is Paul ! I'm a 22-year-old computer scientist.
 I'm interested in programming, electronics and anything to do with computers and sciences.
-on my free time:
+
+On my free time:
 * 🏋️‍♂️ I do a lot of sport.
 * 🥊 I practice martial arts.
 * 🌌 I love learning new things.
