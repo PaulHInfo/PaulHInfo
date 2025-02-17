@@ -25,7 +25,7 @@ On my free time:
 [![My Skills](https://skillicons.dev/icons?i=rust,ruby,react,linux,vue)](https://skillicons.dev)
 
 # 📱 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulHinfo&theme=tokyonight)
+![Top Langs]()
 
 
 
