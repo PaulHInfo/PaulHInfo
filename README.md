@@ -14,7 +14,7 @@ On my free time:
 
 ## Learned at school :
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,powershell,docker,git,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,powershell,docker,git,windows,django)](https://skillicons.dev)
 
 ## Learned by myself :
 
