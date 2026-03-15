@@ -14,11 +14,11 @@ On my free time:
 
 ## Learned at school :
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,powershell,docker,git,windows,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,cpp,powershell,docker,git,windows,django)](https://skillicons.dev)
 
 ## Learned by myself :
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,go,arduino,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,go,arduino,nodejs)](https://skillicons.dev)
 
 ## Want to learn  :
 
