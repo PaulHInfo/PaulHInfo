@@ -18,11 +18,11 @@ On my free time:
 
 ## Learned by myself :
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,go,arduino,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,go,arduino,nodejs,react)](https://skillicons.dev)
 
 ## Want to learn  :
 
-[![My Skills](https://skillicons.dev/icons?i=rust,ruby,react,linux,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,ruby,linux,vue)](https://skillicons.dev)
 
 # 📱 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulHinfo&theme=tokyonight)
