@@ -1,6 +1,6 @@
 
 # 😊 About myself
-My name is Paul ! I'm a 23-year-old computer scientist.
+My name is Paul ! I'm a 24-year-old computer scientist.
 I'm interested in programming, electronics and anything to do with computers and sciences.
 
 On my free time:
