@@ -1,13 +1,5 @@
 
-# 😊 About myself
-My name is Paul ! I'm a 24-year-old computer scientist.
-I'm interested in programming, electronics and anything to do with computers and sciences.
-
-On my free time:
-* 🏋️‍♂️ I do a lot of sport.
-* 🥊 I practice martial arts.
-* 🌌 I love learning new things.
-* 📖 I read books.
+# Hello I am Paul.
 
 
 # 💻 Skills
@@ -23,9 +15,5 @@ On my free time:
 ## Want to learn  :
 
 [![My Skills](https://skillicons.dev/icons?i=rust,ruby,linux,vue)](https://skillicons.dev)
-
-# 📱 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulHinfo&theme=tokyonight)
-
 
 
