@@ -1,10 +1,9 @@
 
 <p align="center">
-    <h1 align="center">Let's go</h1>
+    <h1 align="center">Hello I am Paul</h1>
     <img src="./images/banner.png" alt="Banner" width="100%" />
 </p>
 
-# Hello I am Paul.
 
 I mainly work with **Go, Java, C/C++ and Python**, while continuously expanding my knowledge in distributed systems, networking, embedded computing and modern web technologies.
 
